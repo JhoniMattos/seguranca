@@ -1,12 +1,12 @@
 body {
   background-color: #2C2B3D;
-  min-height: 100vh;
+  min-height: 100%;
 }
 
 .page {
-  width: 1000px;
+  width: 1300px;
   margin: auto;
-}
+  }
 
 
 nav {
